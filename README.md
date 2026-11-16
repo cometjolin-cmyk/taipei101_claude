@@ -1,5 +1,5 @@
 # 台北 101 互動模型（Three.js）
-
+claude製作
 單一 `index.html`，Three.js 0.170.0 由 jsDelivr CDN 載入，不需建置。
 
 功能：日夜／天氣、導覽、電梯、跨年煙火、阻尼器示意、LED 跑馬燈、合成音效、紀念明信片。
